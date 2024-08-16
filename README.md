@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Anirudh VSP
 
 ### About Me
-I'm a passionate developer who enjoys working on various projects, from full-stack web applications to game development. I love learning new technologies and applying them to create innovative solutions.
+I'm a passionate developer who enjoys working on various projects, from full-stack web applications to game development. I love learning new technologies and applying them to create innovative solutions. This is my personal GitHub repository where I showcase the projects I'm currently working on and some of my past work.
 
 - 🔭 I’m currently working on a **CLI AI Tool** that helps developers automate tasks using natural language processing.
 - 🌱 I’m exploring serverless architecture with **HTMX, Hono, and Supabase** to build scalable and efficient full-stack applications.
@@ -10,7 +10,7 @@ I'm a passionate developer who enjoys working on various projects, from full-sta
 - 💬 Ask me about game development, AI, and full-stack development!
 - 📫 How to reach me: [anirudhvsp@gmail.com](mailto:anirudhvsp@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’ve attached a pen to my 3D printer for creative 2D drawings! <I turned my 3d printer into a 2d printer morty>
+- ⚡ Fun fact: I’ve attached a pen to my 3D printer for creative 2D drawings! <I turned my 3D printer into a 2D printer, Morty>
 
 ### Recent Projects
 
