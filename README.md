@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Anirudh VSP
+## Hi there 👋 I'm Anirudh
 
 ### About Me
 I'm a passionate developer who enjoys working on various projects, from full-stack web applications to game development. I love learning new technologies and applying them to create innovative solutions. This is my personal GitHub repository where I showcase the projects I'm currently working on and some of my past work.
