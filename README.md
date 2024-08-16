@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Anirudh
 
 ### About Me
-I'm a passionate developer who enjoys working on various projects, from full-stack web applications to game development. I love learning new technologies and applying them to create innovative solutions. This is my personal GitHub repository where I showcase the projects I'm currently working on and some of my past work.
+I'm a passionate developer who enjoys working on various projects, from full-stack web applications to game development. I love learning new technologies and applying them to create innovative solutions. This is my personal GitHub repository where I showcase the projects I'm currently working on
 
 - 🔭 I’m currently working on a **CLI AI Tool** that helps developers automate tasks using natural language processing.
 - 🌱 I’m exploring serverless architecture with **HTMX, Hono, and Supabase** to build scalable and efficient full-stack applications.
