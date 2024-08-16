@@ -6,7 +6,7 @@ I'm a passionate developer who enjoys working on various projects, from full-sta
 - 🔭 I’m currently working on a **CLI AI Tool** that helps developers automate tasks using natural language processing.
 - 🌱 I’m exploring serverless architecture with **HTMX, Hono, and Supabase** to build scalable and efficient full-stack applications.
 - 🎮 I'm developing a **JS LF2 Browser Multiplayer Game**, a simple clone of the classic game Little Fighter 2, bringing it to the web with basic multiplayer capabilities.
-- 📦 Working on an **Xbox Auto Downloader and Cloud Backup** tool that simplifies game management by automating downloads and syncing with cloud storage.
+- 📦 Working on an **Xbox Auto Downloader and Cloud Backup** tool that simplifies game media management by automating downloads and syncing with cloud storage.
 - 💬 Ask me about game development, AI, and full-stack development!
 - 📫 How to reach me: [anirudhvsp@gmail.com](mailto:anirudhvsp@gmail.com)
 - 😄 Pronouns: He/Him
