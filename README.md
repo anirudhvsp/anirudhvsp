@@ -15,7 +15,7 @@ I'm a passionate developer who enjoys working on various projects, from full-sta
 ### Recent Projects
 
 #### 🔧 [CLI AI Tool](https://github.com/anirudhvsp/CLI-AI)
-A command-line interface tool that leverages AI to automate repetitive development tasks. It allows developers to interact with their codebase using natural language, making coding faster and more intuitive.
+tool to access LLMs from CLI without any dependencies, by exposing a rest endpoint from an AWS lambda, ensuring no dependencies being required on remote machines and VMs.
 
 #### 🌐 [HTMX, Hono, Supabase Serverless Full-Stack Project](https://github.com/anirudhvsp/htmx-hono-supabase)
 A modern full-stack application built using HTMX for seamless user interactions, Hono for a lightweight server-side framework, and Supabase for backend services. This project demonstrates the power of serverless architecture, offering a scalable and efficient solution.
@@ -24,7 +24,7 @@ A modern full-stack application built using HTMX for seamless user interactions,
 A browser-based multiplayer game inspired by Little Fighter 2. This project brings the classic fighting game to the web, featuring real-time multiplayer action using Phaser and Socket.IO.
 
 #### 📦 [Xbox Auto Downloader and Cloud Backup](https://github.com/anirudhvsp/xboxBackup)
-A tool designed to simplify game management for Xbox users by automating game downloads and syncing them with cloud storage. This project aims to enhance the gaming experience by ensuring games are always up to date and safely backed up.
+solution to preserve game media from being deleted by periodically running a script that downloads latest videos and screenshots to disk for offline storage. By setting up a media streaming server (like plex for windows), these can also be streamed from the storage machine to phone or any other device.
 
 ---
 
