@@ -3,7 +3,7 @@
 ### About Me
 I'm a passionate developer who enjoys working on various projects, from full-stack web applications to game development. I love learning new technologies and applying them to create innovative solutions. This is my personal GitHub repository where I showcase the projects I'm currently working on
 
-- view my game captire library on my self hosted video streaming site here : (https://streamitnow.site/home)
+- view my game captures library on my self hosted video streaming site here : (https://streamitnow.site/home)
   
 - 🔭 I’m currently working on a **CLI AI Tool** that helps developers automate tasks using natural language processing.
 - 🌱 I’m exploring serverless architecture with **HTMX, Hono, and Supabase** to build scalable and efficient full-stack applications.
