@@ -15,6 +15,12 @@ I'm a passionate developer who enjoys working on various projects, from full-sta
 
 ### Recent Projects
 
+#### 📦 [Xbox Auto Downloader and Cloud Backup](https://github.com/anirudhvsp/xboxBackup)
+solution to preserve game media from being deleted by periodically running a script that downloads latest videos and screenshots to disk for offline storage. By setting up a media streaming server (like plex for windows), these can also be streamed from the storage machine to phone or any other device.
+
+#### 📦 [Ender 3 plotter](https://github.com/anirudhvsp/plotterEnder3)
+Turning 3d printers into regular printers using pens and some code.
+
 #### 🔧 [CLI AI Tool](https://github.com/anirudhvsp/CLI-AI)
 tool to access LLMs from CLI without any dependencies, by exposing a rest endpoint from an AWS lambda, ensuring no dependencies being required on remote machines and VMs.
 
@@ -24,8 +30,6 @@ A modern full-stack application built using HTMX for seamless user interactions,
 #### 🎮 [JS LF2 Browser Multiplayer Game](https://github.com/anirudhvsp/webLF)
 A browser-based multiplayer game inspired by Little Fighter 2. This project brings the classic fighting game to the web, featuring real-time multiplayer action using Phaser and Socket.IO.
 
-#### 📦 [Xbox Auto Downloader and Cloud Backup](https://github.com/anirudhvsp/xboxBackup)
-solution to preserve game media from being deleted by periodically running a script that downloads latest videos and screenshots to disk for offline storage. By setting up a media streaming server (like plex for windows), these can also be streamed from the storage machine to phone or any other device.
 
 ---
 
