@@ -3,7 +3,7 @@
 ### About Me
 I'm a passionate developer who enjoys working on various projects, from full-stack web applications to game development. I love learning new technologies and applying them to create innovative solutions. This is my personal GitHub repository where I showcase the projects I'm currently working on
 
--checkout my perpetual WIP game 
+- checkout my perpetual WIP game 
 (https://pastamastarasta.itch.io/mirrors-edge-from-wish)
 - 🔭 Working on an **Xbox Auto Downloader and Cloud Backup** tool that simplifies game media management by automating downloads and syncing with cloud storage. This kinda went off the rails and now this is a full fledged streaming solution with adaptive bitrate streaming using HLS and also a tiktok like short video mode utilizing htmx for dynamic content loading and PWA features for app like experience on mobile(click on install prompt when accessing from mobile), currently hosted on AWS accessible at  : (https://streamitnow.site/home)
 - 🌱 I’m exploring serverless architecture with **HTMX, Hono, and Supabase** to build scalable and efficient full-stack applications.
