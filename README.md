@@ -17,6 +17,9 @@ I'm a passionate developer who enjoys working on various projects, from full-sta
 
 ### Recent Projects
 
+#### 📦 [ESP32 python LCD](https://github.com/anirudhvsp/esp23-LCD)
+overengineered Simplicity
+
 #### 📦 [Xbox Auto Downloader and Cloud Backup](https://github.com/anirudhvsp/xboxBackup)
 solution to preserve game media from being deleted by periodically running a script that downloads latest videos and screenshots to disk for offline storage. By setting up a media streaming server (like plex for windows), these can also be streamed from the storage machine to phone or any other device.
 
