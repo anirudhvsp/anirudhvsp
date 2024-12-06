@@ -4,6 +4,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/anirudhvsp/anirudhvsp/blob/output/github-contribution-grid-snake.svg">
   <img src="https://github.com/anirudhvsp/anirudhvsp/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
 ### About Me
 I'm a passionate developer who enjoys working on various projects, from full-stack web applications to game development. I love learning new technologies and applying them to create innovative solutions. This is my personal GitHub repository where I showcase the projects I'm currently working on
 
