@@ -11,7 +11,7 @@ I'm a passionate developer who enjoys working on various projects, from full-sta
 
 - checkout my perpetual WIP game 
 (https://pastamastarasta.itch.io/mirrors-edge-from-wish)
-- I made a video streaming app directly from s3 and cloudfront, with the video conversion being handled in the browser using FFMPEG WASM (https://ffmpeg-wasm-khaki.vercel.app/)
+- I made a video streaming app directly from s3 with the video conversion being handled in the browser using FFMPEG WASM (https://ffmpeg-wasm-full.vercel.app/)
 - 🔭 Working on an **Xbox Auto Downloader and Cloud Backup** tool that simplifies game media management by automating downloads and syncing with cloud storage. This kinda went off the rails and now this is a full fledged streaming solution with adaptive bitrate streaming using HLS and also a tiktok like short video mode utilizing htmx for dynamic content loading and PWA features for app like experience on mobile(click on install prompt when accessing from mobile), currently hosted on AWS accessible at  : (https://streamitnow.site)
 - 🌱 I’m exploring serverless architecture with **HTMX, Hono, and Supabase** to build scalable and efficient full-stack applications.
 - 🎮 I'm developing a **JS LF2 Browser Multiplayer Game**, a simple clone of the classic game Little Fighter 2, bringing it to the web with basic multiplayer capabilities.
