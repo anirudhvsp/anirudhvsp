@@ -9,6 +9,7 @@
 ### About Me
 I'm a passionate developer who enjoys working on various projects, from full-stack web applications to game development. I love learning new technologies and applying them to create innovative solutions. This is my personal GitHub repository where I showcase the projects I'm currently working on
 
+- I recently oneshot generated url shortner with deployment on CF workers using CF KV (https://falling-bread-b776.anirudhvsp.workers.dev/)
 - checkout my perpetual WIP game 
 (https://pastamastarasta.itch.io/mirrors-edge-from-wish)
 - I made a video streaming app directly from s3 with the video conversion being handled in the browser using FFMPEG WASM (https://ffmpeg-wasm-full.vercel.app/)
