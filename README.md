@@ -1,50 +1,130 @@
-## Hi there 👋 I'm Anirudh
+<div align="center">
+
+# Hey, I'm Anirudh 👋
+
+### I build AI systems, developer tools, cloud apps, games, and occasionally make hardware do things it was never designed to do.
+
+[![GitHub](https://img.shields.io/badge/GitHub-anirudhvsp-181717?style=for-the-badge&logo=github)](https://github.com/anirudhvsp)
+[![Email](https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudhvsp@gmail.com)
+
+</div>
+
+## About me
+
+I'm a developer who enjoys working across the whole stack—from retrieval pipelines and AI agents to native desktop apps, cloud infrastructure, multiplayer games, and embedded hardware.
+
+- 🤖 Currently exploring **RAG, AI agents, MCP, and retrieval visualization**
+- 🧰 I like turning rough ideas into useful, deployable tools
+- 🎮 I build games and multiplayer experiments with **Godot**
+- 🔧 My side quests usually involve an **ESP32, a 3D printer, or both**
+- 💬 Ask me about AI, full-stack development, game development, or creative automation
+
+## Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🗂️ [OpenDirStat](https://github.com/anirudhvsp/OpenDirStat)
+
+A fast, cross-platform disk usage analyzer inspired by WinDirStat and QDirStat, with a native Rust filesystem index and an interactive cushion treemap.
+
+**Rust · Tauri 2 · TypeScript**
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 [Complaint Intelligence RAG](https://github.com/anirudhvsp/rag-mcp-qdrant)
+
+A portfolio-grade investigation workspace for financial complaints with hybrid dense + BM25 retrieval, metadata filters, cited answers, MCP access, and a live UMAP embedding explorer.
+
+**FastAPI · Next.js · Qdrant · PostgreSQL · deck.gl**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ [Clanker Do Clanking](https://github.com/anirudhvsp/clanker-do-clanking)
+
+A local automation service that turns labeled GitHub issues into an agent-driven development loop—branching, implementing, opening PRs, and resuming context when feedback arrives.
+
+**Python · GitHub API · AI Agents · Git**
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [Agent Harness](https://github.com/anirudhvsp/agent-harness)
+
+A minimal, extensible AI agent CLI with a think → act → observe loop, persistent memory, a Rich-powered REPL, and a decorator-based tool registry.
+
+**Python · LLM APIs · Rich · Tool Calling**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 [Cloudflare Streaming Stack](https://github.com/anirudhvsp/cloudflare-streaming-stack)
+
+A Go desktop app that transcodes video into multi-bitrate HLS and uploads it to Cloudflare R2, paired with a Worker-powered streaming interface.
+
+**Go · FFmpeg · HLS · Cloudflare Workers · R2**
+
+</td>
+<td width="50%" valign="top">
+
+### ⚔️ [Multiplayer RTS](https://github.com/anirudhvsp/rtsSource)
+
+A Godot RTS experiment with authoritative multiplayer, WebSocket networking, synchronized entities, unit formations, and browser/desktop clients.
+
+**Godot · GDScript · WebSockets · Multiplayer**
+
+</td>
+</tr>
+</table>
+
+## More things I've built
+
+- 🎯 [sourceFps](https://github.com/anirudhvsp/sourceFps) — a browser-playable Godot FPS with automated web builds
+- ☁️ [Xbox Backup](https://github.com/anirudhvsp/xboxBackup) — downloads and preserves Xbox captures before they disappear
+- 🖊️ [Ender 3 Plotter](https://github.com/anirudhvsp/plotterEnder3) — image processing and slicer tooling that turns a 3D printer into a surprisingly capable 2D plotter
+- 🖥️ [CLI AI](https://github.com/anirudhvsp/CLI-AI) — dependency-free access to LLMs from remote shells through a serverless endpoint
+- 📟 [ESP32 LCD Experiments](https://github.com/anirudhvsp/esp23-LCD) — overengineered simplicity with microcontrollers and displays
+
+## Toolbox
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+
+</div>
+
+## Contribution trail
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/anirudhvsp/anirudhvsp/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/anirudhvsp/anirudhvsp/blob/output/github-contribution-grid-snake.svg">
-  <img src="https://github.com/anirudhvsp/anirudhvsp/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Anirudh's contribution graph animated as a snake" src="https://github.com/anirudhvsp/anirudhvsp/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
-
-
-### About Me
-I'm a passionate developer who enjoys working on various projects, from full-stack web applications to game development. I love learning new technologies and applying them to create innovative solutions. This is my personal GitHub repository where I showcase the projects I'm currently working on
-
-- Story teller app that can generate short stories with narration using AI(https://v0-story-book-vert.vercel.app/)
-- I recently oneshot generated url shortner with deployment on CF workers using CF KV (https://falling-bread-b776.anirudhvsp.workers.dev/)
-- checkout my perpetual WIP game 
-(https://pastamastarasta.itch.io/mirrors-edge-from-wish)
-- I made a video streaming app directly from s3 with the video conversion being handled in the browser using FFMPEG WASM (https://ffmpeg-wasm-full.vercel.app/)
-- 🔭 Working on an **Xbox Auto Downloader and Cloud Backup** tool that simplifies game media management by automating downloads and syncing with cloud storage. This kinda went off the rails and now this is a full fledged streaming solution with adaptive bitrate streaming using HLS and also a tiktok like short video mode utilizing htmx for dynamic content loading and PWA features for app like experience on mobile(click on install prompt when accessing from mobile), currently hosted on AWS accessible at  : [(repo)](https://github.com/anirudhvsp/cloudflare-streaming-stack)  [(app)](https://video-streamer.anirudhvsp.workers.dev/)
-- 🌱 I’m exploring serverless architecture with **HTMX, Hono, and Supabase** to build scalable and efficient full-stack applications.
-- 🎮 I'm developing a **JS LF2 Browser Multiplayer Game**, a simple clone of the classic game Little Fighter 2, bringing it to the web with basic multiplayer capabilities.
-- 💬 Ask me about game development, AI, and full-stack development!
-- 📫 How to reach me: [anirudhvsp@gmail.com](mailto:anirudhvsp@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’ve attached a pen to my 3D printer for creative 2D drawings! <I turned my 3D printer into a 2D printer, Morty>
-- check out
-[plotterEnder3](https://github.com/anirudhvsp/plotterEnder3)
-
-### Recent Projects
-
-#### 📦 [ESP32 python LCD](https://github.com/anirudhvsp/esp23-LCD)
-overengineered Simplicity
-
-#### 📦 [Xbox Auto Downloader and Cloud Backup](https://github.com/anirudhvsp/xboxBackup)
-solution to preserve game media from being deleted by periodically running a script that downloads latest videos and screenshots to disk for offline storage. By setting up a media streaming server (like plex for windows), these can also be streamed from the storage machine to phone or any other device.
-
-#### 📦 [Ender 3 plotter](https://github.com/anirudhvsp/plotterEnder3)
-Turning 3d printers into regular printers using pens and some code.
-
-#### 🔧 [CLI AI Tool](https://github.com/anirudhvsp/CLI-AI)
-tool to access LLMs from CLI without any dependencies, by exposing a rest endpoint from an AWS lambda, ensuring no dependencies being required on remote machines and VMs.
-
-#### 🌐 [HTMX, Hono, Supabase Serverless Full-Stack Project](https://github.com/anirudhvsp/htmx-hono-supabase)
-A modern full-stack application built using HTMX for seamless user interactions, Hono for a lightweight server-side framework, and Supabase for backend services. This project demonstrates the power of serverless architecture, offering a scalable and efficient solution.
-
-#### 🎮 [JS LF2 Browser Multiplayer Game](https://github.com/anirudhvsp/webLF)
-A browser-based multiplayer game inspired by Little Fighter 2. This project brings the classic fighting game to the web, featuring real-time multiplayer action using Phaser and Socket.IO.
-
 
 ---
 
-Feel free to check out these projects and more on my repositories!
+<div align="center">
+
+**Always building. Usually overengineering. Occasionally shipping.**
+
+📫 [anirudhvsp@gmail.com](mailto:anirudhvsp@gmail.com)
+
+</div>
